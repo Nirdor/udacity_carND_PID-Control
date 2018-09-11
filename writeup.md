@@ -1,4 +1,4 @@
-# **Behavioral Cloning** 
+# **PID-Control** 
 
 ---
 
@@ -16,7 +16,7 @@ The goals / steps of this project are the following:
 ---
 ### Compilation
 
-#### 1. Code must compile without errors with 'cmake' and 'make'.
+#### 1. Code must compile without errors with `cmake` and `make`.
 
 My project includes the following files:
 * src/PID.h header file for the PID Controller class
